@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Penguino</string>
+    <string name="penguino_preferences">penguino_preferences</string>
 </resources>
